@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @vicmat07
-- 👀 I’m interested in learning programming Languages, both Front-End and Back-End!
-- 🌱 I’m currently learning Javascript, CSS, HTML and React for Front-End Development, and using .NET and C# for Back-End Development!
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: e-mail: victor.mateus.fa@hotmail.com
 
 <!---
